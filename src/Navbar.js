@@ -3,7 +3,7 @@ import React from "react";
 const NavBar = () => {
     return(
         <div>
-{/* navbar start    */}  
+
    <nav className="navbar navbar-expand-lg text-white bg-dark">
       <a className="navbar-brand text-success" href="#">Navbar</a>
 
@@ -37,9 +37,6 @@ const NavBar = () => {
         </form>
       </div>
     </nav>
-
-{/*    navbar ends
- */}
 
         </div>
     )
